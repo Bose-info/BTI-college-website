@@ -1,1 +1,0 @@
-# BTI-college-website
