@@ -1,0 +1,23 @@
+.fullbody {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Century Gothic", sans-serif;
+    background-size: cover;
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    float: left;
+}
+
+html,
+body {
+    background: url(image/form.jpg) center no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
